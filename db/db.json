@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7,
+    "reference": "https://oreshkevich.github.io/react-shop/",
+    "img": "./img/portfolio/react-shop.png",
+    "alt": "React-Shop",
+    "title": "React Shop",
+    "category": "React-project"
+  },
+  {
+    "id": 8,
+    "reference": "https://oreshkevich.github.io/food-project/",
+    "img": "./img/portfolio/react-food.jpg",
+    "alt": "React-Food",
+    "title": "React Food",
+    "category": "React-project"
+  },
+  {
+    "id": 0,
+    "title": "Адаптивный лендинг",
+    "reference": "https://oreshkevich.github.io/willberries/",
+    "img": "./img/portfolio/Willberries.png",
+    "alt": "Willberries",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 1,
+    "reference": "https://oreshkevich.github.io/rsschool-cv/",
+    "img": "./img/portfolio/front.jpg",
+    "alt": "portfolio",
+    "title": "Личный сайт",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 3,
+    "reference": "https://oreshkevich.github.io/flowers/",
+    "img": "./img/portfolio/flowers.png",
+    "alt": "flowers",
+    "title": "Интернет магазин",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 4,
+    "reference": "https://oresh85.github.io/",
+    "img": "./img/portfolio/uber.png",
+    "alt": "flowers",
+    "title": "Адаптивный лендинг",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 5,
+    "reference": "https://oreshkevich.github.io/Wildberries/",
+    "img": "./img/portfolio/willberries.png",
+    "alt": "Willberries",
+    "title": "Адаптивный лендинг",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 6,
+    "reference": "https://oreshkevich.github.io/iPhone12/",
+    "img": "./img/portfolio/iPhone12.png",
+    "alt": "iPhone12",
+    "title": "iPhone12",
+    "category": "Верстка многостраничного сайта."
+  }
+]
