@@ -16,6 +16,110 @@
     "category": "React-project"
   },
   {
+    "id": 9,
+    "reference": "https://oreshkevich.github.io/react-movies/",
+    "img": "./img/portfolio/movies.jpg",
+    "alt": "React-Movies",
+    "title": "React Movies",
+    "category": "React-project"
+  },
+  {
+    "id": 20,
+    "reference": "https://oreshkevich.github.io/books",
+    "img": "./img/portfolio/books.jpg",
+    "alt": "Game of Thrones DB",
+    "title": "Game of Thrones DB",
+    "category": "React-project"
+  },
+  {
+    "id": 22,
+    "reference": "https://oreshkevich.github.io/react-todo-list/",
+    "img": "./img/portfolio/todo.jpg",
+    "alt": "Todo",
+    "title": "Todo",
+    "category": "React-project"
+  },
+  {
+    "id": 10,
+    "reference": "https://oreshkevich.github.io/food/",
+    "img": "./img/portfolio/food.jpg",
+    "alt": "Food",
+    "title": "Food",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 11,
+    "reference": "https://oreshkevich.github.io/mercedes/",
+    "img": "./img/portfolio/mercedes.jpg",
+    "alt": "Mercedes",
+    "title": "Mercedes",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 12,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q3/momentum/#en",
+    "img": "./img/portfolio/momentum.jpg",
+    "alt": "Momentum",
+    "title": "Momentum",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 13,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q3/art-quiz/",
+    "img": "./img/portfolio/quiz.jpg",
+    "alt": "Quiz",
+    "title": "Quiz",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 14,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q3/christmas-tree/",
+    "img": "./img/portfolio/tree.jpg",
+    "alt": "Christmas-tree",
+    "title": "Christmas-tree",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 15,
+    "reference": "https://keyboard-race.netlify.app/",
+    "img": "./img/portfolio/rece.jpg",
+    "alt": "Keyboard-race",
+    "title": "Keyboard-race",
+    "category": "Team task rolling-scopes-school"
+  },
+  {
+    "id": 16,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q3/museum/",
+    "img": "./img/portfolio/museum.jpg",
+    "alt": "Museum",
+    "title": "Museum",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 17,
+    "reference": "https://oreshkevich.github.io/cssMemSlider/cssMemSlider/index.html",
+    "img": "./img/portfolio/slider.jpg",
+    "alt": "cssMemSlider",
+    "title": "cssMemSlider",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 18,
+    "reference": "https://oreshkevich.github.io/calculated/",
+    "img": "./img/portfolio/calculator.jpg",
+    "alt": "Calculator",
+    "title": "Calculator",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 19,
+    "reference": "https://oreshkevich.github.io/PK/",
+    "img": "./img/portfolio/pk.jpg",
+    "alt": "PK",
+    "title": "PK",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
     "id": 0,
     "title": "Адаптивный лендинг",
     "reference": "https://oreshkevich.github.io/willberries/",
@@ -28,7 +132,7 @@
     "reference": "https://oreshkevich.github.io/rsschool-cv/",
     "img": "./img/portfolio/front.jpg",
     "alt": "portfolio",
-    "title": "Личный сайт",
+    "title": "Rsschool-cv",
     "category": "Верстка многостраничного сайта."
   },
   {
@@ -62,5 +166,13 @@
     "alt": "iPhone12",
     "title": "iPhone12",
     "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 21,
+    "reference": "https://oreshkevich.github.io/online-grid/",
+    "img": "./img/portfolio/grid.jpg",
+    "alt": "MOVE",
+    "title": "MOVE",
+    "category": "Верстка сайта на grid"
   }
 ]
