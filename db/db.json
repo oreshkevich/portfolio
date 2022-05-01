@@ -39,22 +39,7 @@
     "title": "Todo",
     "category": "React-project"
   },
-  {
-    "id": 10,
-    "reference": "https://oreshkevich.github.io/food/",
-    "img": "./img/portfolio/food.jpg",
-    "alt": "Food",
-    "title": "Food",
-    "category": "Верстка многостраничного сайта."
-  },
-  {
-    "id": 11,
-    "reference": "https://oreshkevich.github.io/mercedes/",
-    "img": "./img/portfolio/mercedes.jpg",
-    "alt": "Mercedes",
-    "title": "Mercedes",
-    "category": "Верстка многостраничного сайта."
-  },
+
   {
     "id": 12,
     "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q3/momentum/#en",
@@ -111,6 +96,56 @@
     "title": "Calculator",
     "category": "Task rolling-scopes-school"
   },
+
+  {
+    "id": 23,
+    "reference": "https://oreshkevich.github.io/lomoda/index.html",
+    "img": "./img/portfolio/lomoda.jpg",
+    "alt": "Lomoda",
+    "title": "Lomoda",
+    "category": "Многостраничный сайта."
+  },
+  {
+    "id": 24,
+    "reference": "https://oreshkevich.github.io/game-car/",
+    "img": "./img/portfolio/game-car.jpg",
+    "alt": "Game-car",
+    "title": "Game-car",
+    "category": "Game"
+  },
+  {
+    "id": 24,
+    "reference": "https://oreshkevich.github.io/mortal-kombat/",
+    "img": "./img/portfolio/mortal.jpg",
+    "alt": "mortal-kombat",
+    "title": "Mortal-kombat",
+    "category": "Верстка сайта."
+  },
+  {
+    "id": 25,
+    "reference": "https://oreshkevich.github.io/Loki/",
+    "img": "./img/portfolio/loki.jpg",
+    "alt": "loki",
+    "title": "Loki",
+    "category": "Верстка сайта."
+  },
+  {
+    "id": 10,
+    "reference": "https://oreshkevich.github.io/food/",
+    "img": "./img/portfolio/food.jpg",
+    "alt": "Food",
+    "title": "Food",
+    "category": "Верстка многостраничного сайта."
+  },
+  {
+    "id": 11,
+    "reference": "https://oreshkevich.github.io/mercedes/",
+    "img": "./img/portfolio/mercedes.jpg",
+    "alt": "Mercedes",
+    "title": "Mercedes",
+    "category": "Верстка многостраничного сайта."
+  },
+
   {
     "id": 19,
     "reference": "https://oreshkevich.github.io/PK/",
