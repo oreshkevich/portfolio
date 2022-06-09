@@ -1,5 +1,13 @@
 [
   {
+    "id": 30,
+    "reference": "https://oreshkevich.github.io/project-management-app/",
+    "img": "./img/portfolio/good-board.jpg",
+    "alt": "Project-management",
+    "title": "Project management system",
+    "category": "Team task rolling-scopes-school -- react"
+  },
+  {
     "id": 7,
     "reference": "https://oreshkevich.github.io/react-shop/",
     "img": "./img/portfolio/react-shop.png",

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "reference": "https://app.rs.school/certificate/50b5xxfc",
+    "img": "./img/portfolio/certificate-1.jpg",
+    "alt": "CERTIFICATE",
+    "title": "CERTIFICATE",
+    "category": "JAVASCRIPT/FRONT-END 2021Q3"
+  },
+  {
+    "id": 2,
+    "reference": "https://app.rs.school/certificate/aphhwmu7",
+    "img": "./img/portfolio/certificate-2.jpg",
+    "alt": "CERTIFICATE",
+    "title": "CERTIFICATE",
+    "category": "REACT 2022 Q1 (JAVASCRIPT)"
+  }
+]
