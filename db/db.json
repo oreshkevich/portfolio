@@ -40,6 +40,14 @@
     "category": "React-project"
   },
   {
+    "id": 33,
+    "reference": "https://oreshkevich.github.io/react-movies-vue/",
+    "img": "./img/portfolio/vue-movies.jpg",
+    "alt": "Vue-Movies",
+    "title": "Vue Movies",
+    "category": "Vue-project"
+  },
+  {
     "id": 20,
     "reference": "https://oreshkevich.github.io/books",
     "img": "./img/portfolio/books.jpg",
