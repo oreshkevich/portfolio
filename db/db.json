@@ -8,6 +8,14 @@
     "category": "Team task rolling-scopes-school -- react"
   },
   {
+    "id": 31,
+    "reference": "https://dashboard-redux-three.vercel.app/",
+    "img": "./img/portfolio/redux-1.jpg",
+    "alt": "Project-redux",
+    "title": "Project redux system",
+    "category": " React-redux"
+  },
+  {
     "id": 7,
     "reference": "https://oreshkevich.github.io/react-shop/",
     "img": "./img/portfolio/react-shop.png",
@@ -47,7 +55,14 @@
     "title": "Todo",
     "category": "React-project"
   },
-
+  {
+    "id": 32,
+    "reference": "https://oreshkevich.github.io/roof-task/",
+    "img": "./img/portfolio/roof.jpg",
+    "alt": "interlocutors",
+    "title": "The task of the interlocutors is layout on vw",
+    "category": " Interlocutors task"
+  },
   {
     "id": 12,
     "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q3/momentum/#en",
