@@ -8,14 +8,6 @@
     "category": "Team task rolling-scopes-school -- react"
   },
   {
-    "id": 31,
-    "reference": "https://dashboard-redux-three.vercel.app/",
-    "img": "./img/portfolio/redux-1.jpg",
-    "alt": "Project-redux",
-    "title": "Project redux system",
-    "category": " React-redux"
-  },
-  {
     "id": 7,
     "reference": "https://oreshkevich.github.io/react-shop/",
     "img": "./img/portfolio/react-shop.png",
@@ -23,6 +15,23 @@
     "title": "React Shop",
     "category": "React-project"
   },
+  {
+    "id": 31,
+    "reference": "https://countries-ruby.vercel.app/",
+    "img": "./img/portfolio/country.jpg",
+    "alt": "Project-redux",
+    "title": "Project countries",
+    "category": " React-redux"
+  },
+  {
+    "id": 35,
+    "reference": "https://dashboard-redux-three.vercel.app/",
+    "img": "./img/portfolio/redux-1.jpg",
+    "alt": "Project-redux",
+    "title": "Project redux system",
+    "category": " React-redux"
+  },
+
   {
     "id": 8,
     "reference": "https://oreshkevich.github.io/food-project/",
