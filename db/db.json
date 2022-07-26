@@ -8,6 +8,14 @@
     "category": "Team task rolling-scopes-school -- react"
   },
   {
+    "id": 40,
+    "reference": "https://ipfind-ochre.vercel.app/",
+    "img": "./img/portfolio/ip-1.jpg",
+    "alt": "Frontend Mentor ",
+    "title": "IP address tracker",
+    "category": "Frontend Mentor  -- js"
+  },
+  {
     "id": 7,
     "reference": "https://oreshkevich.github.io/react-shop/",
     "img": "./img/portfolio/react-shop.png",
