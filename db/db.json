@@ -257,5 +257,37 @@
     "alt": "MOVE",
     "title": "MOVE",
     "category": "Верстка сайта на grid"
+  },
+  {
+    "id": 51,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFEPRESCHOOL/drum-kit/",
+    "img": "./img/portfolio/drum-kit.jpg",
+    "alt": "Drum-kit",
+    "title": "Drum kit",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 52,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q1/virtual-piano/",
+    "img": "./img/portfolio/virtual-piano.jpg",
+    "alt": "virtual-piano",
+    "title": "Virtual piano",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 53,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFEPRESCHOOL/museum/",
+    "img": "./img/portfolio/museum-1.jpg",
+    "alt": "museum",
+    "title": "Museum",
+    "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 54,
+    "reference": "https://rolling-scopes-school.github.io/oreshkevich-JSFE2021Q1/online-zoo/pages/landing/",
+    "img": "./img/portfolio/zoon.jpg",
+    "alt": "zoo",
+    "title": "Zoo",
+    "category": "Task rolling-scopes-school"
   }
 ]
