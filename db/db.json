@@ -289,5 +289,21 @@
     "alt": "zoo",
     "title": "Zoo",
     "category": "Task rolling-scopes-school"
+  },
+  {
+    "id": 55,
+    "reference": "https://irvas.vercel.app/",
+    "img": "./img/portfolio/irvis.jpg",
+    "alt": "сайта",
+    "title": "Адаптивный лендинг",
+    "category": "Адаптивный лендинг."
+  },
+  {
+    "id": 56,
+    "reference": "https://oreshkevich.github.io/picture/",
+    "img": "./img/portfolio/picture.jpg",
+    "alt": "сайта",
+    "title": "Адаптивный лендинг",
+    "category": "Адаптивный лендинг."
   }
 ]
