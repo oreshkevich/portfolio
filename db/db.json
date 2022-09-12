@@ -305,5 +305,13 @@
     "alt": "сайта",
     "title": "Адаптивный лендинг",
     "category": "Адаптивный лендинг."
+  },
+  {
+    "id": 57,
+    "reference": "https://bringitup-1.vercel.app/",
+    "img": "./img/portfolio/bringitup.jpg",
+    "alt": "сайта",
+    "title": "Адаптивный лендинг",
+    "category": "Адаптивный лендинг."
   }
 ]
