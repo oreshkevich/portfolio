@@ -210,14 +210,7 @@
     "alt": "Willberries",
     "category": "Верстка многостраничного сайта."
   },
-  {
-    "id": 1,
-    "reference": "https://oreshkevich.github.io/rsschool-cv/",
-    "img": "./img/portfolio/front.jpg",
-    "alt": "portfolio",
-    "title": "Rsschool-cv",
-    "category": "Верстка многостраничного сайта."
-  },
+
   {
     "id": 3,
     "reference": "https://oreshkevich.github.io/flowers/",
@@ -310,6 +303,14 @@
     "id": 57,
     "reference": "https://bringitup-1.vercel.app/",
     "img": "./img/portfolio/bringitup.jpg",
+    "alt": "сайта",
+    "title": "Адаптивный лендинг",
+    "category": "Адаптивный лендинг."
+  },
+  {
+    "id": 57,
+    "reference": "https://oreshkevich.github.io/photofilter/",
+    "img": "./img/portfolio/filter.jpg",
     "alt": "сайта",
     "title": "Адаптивный лендинг",
     "category": "Адаптивный лендинг."
