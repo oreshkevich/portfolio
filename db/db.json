@@ -16,6 +16,30 @@
     "category": "Frontend Mentor  -- js"
   },
   {
+    "id": 41,
+    "reference": "https://student-gamma.vercel.app/",
+    "img": "./img/portfolio/student.jpg",
+    "alt": "student",
+    "title": "Student",
+    "category": "Task "
+  },
+  {
+    "id": 43,
+    "reference": "https://oreshkevich.github.io/courses/",
+    "img": "./img/portfolio/courses.jpg",
+    "alt": "courses",
+    "title": "Courses",
+    "category": "Task"
+  },
+  {
+    "id": 42,
+    "reference": "https://react-task-air.vercel.app/",
+    "img": "./img/portfolio/avia.jpg",
+    "alt": "student",
+    "title": "React-task",
+    "category": "React-task "
+  },
+  {
     "id": 7,
     "reference": "https://oreshkevich.github.io/react-shop/",
     "img": "./img/portfolio/react-shop.png",
