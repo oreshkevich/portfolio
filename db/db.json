@@ -8,6 +8,22 @@
     "category": "Team task rolling-scopes-school -- react"
   },
   {
+    "id": 45,
+    "reference": "https://vue-test-rosy-five.vercel.app/",
+    "img": "./img/portfolio/girl-1.jpg",
+    "alt": "Project-management",
+    "title": "Project test",
+    "category": "test-- vue"
+  },
+  {
+    "id": 46,
+    "reference": "https://vue-card.vercel.app/#/catalog",
+    "img": "./img/portfolio/vue-card.jpg",
+    "alt": "Project-management",
+    "title": "Project vue",
+    "category": "Vue"
+  },
+  {
     "id": 40,
     "reference": "https://ipfind-ochre.vercel.app/",
     "img": "./img/portfolio/ip-1.jpg",
