@@ -8,6 +8,14 @@
     "category": "Team task rolling-scopes-school -- react"
   },
   {
+    "id": 52,
+    "reference": "http://s96570q5.beget.tech/",
+    "img": "./img/portfolio/wp.jpg",
+    "alt": "wp",
+    "title": "Project WordPress ",
+    "category": "Team WordPress "
+  },
+  {
     "id": 45,
     "reference": "https://vue-test-rosy-five.vercel.app/",
     "img": "./img/portfolio/girl-1.jpg",
