@@ -40,6 +40,14 @@
     "category": "bootstrap 4"
   },
   {
+    "id": 56,
+    "reference": "https://vue-3-indol.vercel.app",
+    "img": "./img/portfolio/vue-3-form.jpg",
+    "alt": "Project-management",
+    "title": "Project vue-3",
+    "category": "vue-3"
+  },
+  {
     "id": 40,
     "reference": "https://ipfind-ochre.vercel.app/",
     "img": "./img/portfolio/ip-1.jpg",
