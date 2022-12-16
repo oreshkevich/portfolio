@@ -42,10 +42,26 @@
   {
     "id": 56,
     "reference": "https://vue-3-indol.vercel.app",
+    "img": "./img/portfolio/kit.jpg",
+    "alt": "Project-management",
+    "title": "Project ",
+    "category": "task"
+  },
+  {
+    "id": 57,
+    "reference": "https://task-broker.vercel.app/",
     "img": "./img/portfolio/vue-3-form.jpg",
     "alt": "Project-management",
     "title": "Project vue-3",
     "category": "vue-3"
+  },
+  {
+    "id": 58,
+    "reference": "https://gantt-task.vercel.app/",
+    "img": "./img/portfolio/dms.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react"
   },
   {
     "id": 40,
