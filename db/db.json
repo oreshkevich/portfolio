@@ -64,6 +64,14 @@
     "category": "react"
   },
   {
+    "id": 59,
+    "reference": "https://game-snake-black.vercel.app/",
+    "img": "./img/portfolio/snake.jpg",
+    "alt": "Project-game",
+    "title": "Project game-snake",
+    "category": "game js"
+  },
+  {
     "id": 40,
     "reference": "https://ipfind-ochre.vercel.app/",
     "img": "./img/portfolio/ip-1.jpg",
