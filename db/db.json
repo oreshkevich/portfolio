@@ -72,6 +72,14 @@
     "category": "game js"
   },
   {
+    "id": 60,
+    "reference": "https://vue-3-task-1.vercel.app/",
+    "img": "./img/portfolio/vue-drag.jpg",
+    "alt": "Project-vue",
+    "title": "Project vue-3",
+    "category": "vue-3"
+  },
+  {
     "id": 40,
     "reference": "https://ipfind-ochre.vercel.app/",
     "img": "./img/portfolio/ip-1.jpg",
