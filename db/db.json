@@ -168,14 +168,7 @@
     "title": "Vue Movies",
     "category": "Vue-project"
   },
-  {
-    "id": 20,
-    "reference": "https://oreshkevich.github.io/books",
-    "img": "./img/portfolio/books.jpg",
-    "alt": "Game of Thrones DB",
-    "title": "Game of Thrones DB",
-    "category": "React-project"
-  },
+
   {
     "id": 22,
     "reference": "https://oreshkevich.github.io/react-todo-list/",
