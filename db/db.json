@@ -412,4 +412,12 @@
     "title": "Адаптивный лендинг",
     "category": "Адаптивный лендинг."
   }
+  {
+    "id": 80,
+    "reference": "https://food-js-2.vercel.app/",
+    "img": "./img/portfolio/food-js.jpg",
+    "alt": "сайта",
+    "title": "Адаптивный лендинг",
+    "category": "Адаптивный лендинг."
+  }
 ]
