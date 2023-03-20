@@ -24,6 +24,14 @@
     "category": "test-- vue"
   },
   {
+    "id": 82,
+    "reference": "https://cleverland-virid.vercel.app/#/auth",
+    "img": "./img/portfolio/cleverland.jpg",
+    "alt": "Project-management",
+    "title": "Project test",
+    "category": "test-- vue"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
