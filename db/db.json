@@ -32,6 +32,14 @@
     "category": "react"
   },
   {
+    "id": 84,
+    "reference": "https://test-react-chi-two.vercel.app/",
+    "img": "./img/portfolio/react-test.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react-test"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
