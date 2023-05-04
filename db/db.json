@@ -40,6 +40,22 @@
     "category": "react-test"
   },
   {
+    "id": 85,
+    "reference": "https://vue-test-shop-khaki.vercel.app",
+    "img": "./img/portfolio/react-test.jpg",
+    "alt": "Project-management",
+    "title": "Project vue3",
+    "category": "vue3-test"
+  },
+  {
+    "id": 86,
+    "reference": "https://todo-delta-three.vercel.app",
+    "img": "./img/portfolio/vue-test3.jpg",
+    "alt": "Project-management",
+    "title": "Project vue3",
+    "category": "vue3-test"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
