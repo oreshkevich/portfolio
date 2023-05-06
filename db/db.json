@@ -57,11 +57,19 @@
   },
   {
     "id": 87,
-    "reference": "https://react-expenses-mu.vercel.app/",
+    "reference": "https://react-expenses-mu.vercel.app",
     "img": "./img/portfolio/expense.jpg",
     "alt": "Project-management",
-    "title": "Project vue3",
-    "category": "vue3-test"
+    "title": "Project react",
+    "category": "react"
+  },
+  {
+    "id": 88,
+    "reference": "https://react-user-age.vercel.app",
+    "img": "./img/portfolio/user-age.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react"
   },
   {
     "id": 46,
