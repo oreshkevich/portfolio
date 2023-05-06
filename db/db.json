@@ -56,6 +56,14 @@
     "category": "vue3-test"
   },
   {
+    "id": 87,
+    "reference": "https://react-expenses-mu.vercel.app/",
+    "img": "./img/portfolio/expense.jpg",
+    "alt": "Project-management",
+    "title": "Project vue3",
+    "category": "vue3-test"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
