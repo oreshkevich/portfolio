@@ -72,6 +72,14 @@
     "category": "react"
   },
   {
+    "id": 89,
+    "reference": "https://react-meals-zeta.vercel.app",
+    "img": "./img/portfolio/react-meals.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
