@@ -80,6 +80,14 @@
     "category": "react"
   },
   {
+    "id": 90,
+    "reference": "https://react-movie-topaz-five.vercel.app/",
+    "img": "./img/portfolio/movie.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
