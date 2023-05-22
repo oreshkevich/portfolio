@@ -112,6 +112,22 @@
     "category": "react"
   },
   {
+    "id": 94,
+    "reference": "https://next-one-beta.vercel.app/",
+    "img": "./img/portfolio/next.jpg",
+    "alt": "Project-management",
+    "title": "Project react-next",
+    "category": "react"
+  },
+  {
+    "id": 95,
+    "reference": "https://react-task-tau.vercel.app",
+    "img": "./img/portfolio/saga.jpg",
+    "alt": "Project-management",
+    "title": "Project react-redux-saga",
+    "category": "react"
+  },
+  {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
     "img": "./img/portfolio/vue-card.jpg",
