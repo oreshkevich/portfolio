@@ -7,22 +7,7 @@
     "title": "Project management system",
     "category": "Team task rolling-scopes-school -- react"
   },
-  {
-    "id": 52,
-    "reference": "http://s96570q5.beget.tech/",
-    "img": "./img/portfolio/wp.jpg",
-    "alt": "wp",
-    "title": "Project WordPress ",
-    "category": "Team WordPress "
-  },
-  {
-    "id": 45,
-    "reference": "https://vue-test-rosy-five.vercel.app/",
-    "img": "./img/portfolio/girl-1.jpg",
-    "alt": "Project-management",
-    "title": "Project test",
-    "category": "test-- vue"
-  },
+
   {
     "id": 82,
     "reference": "https://cleverland-virid.vercel.app/#/auth",
@@ -48,30 +33,6 @@
     "category": "vue3-test"
   },
   {
-    "id": 86,
-    "reference": "https://todo-delta-three.vercel.app",
-    "img": "./img/portfolio/vue-test3.jpg",
-    "alt": "Project-management",
-    "title": "Project vue3",
-    "category": "vue3-test"
-  },
-  {
-    "id": 87,
-    "reference": "https://react-expenses-mu.vercel.app",
-    "img": "./img/portfolio/expense.jpg",
-    "alt": "Project-management",
-    "title": "Project react",
-    "category": "react"
-  },
-  {
-    "id": 88,
-    "reference": "https://react-user-age.vercel.app",
-    "img": "./img/portfolio/user-age.jpg",
-    "alt": "Project-management",
-    "title": "Project react",
-    "category": "react"
-  },
-  {
     "id": 89,
     "reference": "https://react-meals-valid.vercel.app",
     "img": "./img/portfolio/react-meals.jpg",
@@ -86,6 +47,47 @@
     "alt": "Project-management",
     "title": "Project Vue-3",
     "category": "Vue-3"
+  },
+
+  {
+    "id": 87,
+    "reference": "https://react-expenses-mu.vercel.app",
+    "img": "./img/portfolio/expense.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react"
+  },
+  {
+    "id": 86,
+    "reference": "https://todo-delta-three.vercel.app",
+    "img": "./img/portfolio/vue-test3.jpg",
+    "alt": "Project-management",
+    "title": "Project vue3",
+    "category": "vue3-test"
+  },
+  {
+    "id": 88,
+    "reference": "https://react-user-age.vercel.app",
+    "img": "./img/portfolio/user-age.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react"
+  },
+  {
+    "id": 45,
+    "reference": "https://vue-test-rosy-five.vercel.app/",
+    "img": "./img/portfolio/girl-1.jpg",
+    "alt": "Project-management",
+    "title": "Project test vue",
+    "category": "test-- vue"
+  },
+  {
+    "id": 95,
+    "reference": "https://react-task-tau.vercel.app",
+    "img": "./img/portfolio/saga.jpg",
+    "alt": "Project-management",
+    "title": "Project react-redux-saga",
+    "category": "react"
   },
   {
     "id": 90,
@@ -127,14 +129,7 @@
     "title": "Project react-next",
     "category": "react"
   },
-  {
-    "id": 95,
-    "reference": "https://react-task-tau.vercel.app",
-    "img": "./img/portfolio/saga.jpg",
-    "alt": "Project-management",
-    "title": "Project react-redux-saga",
-    "category": "react"
-  },
+
   {
     "id": 46,
     "reference": "https://vue-card.vercel.app/#/catalog",
@@ -539,5 +534,13 @@
     "alt": "Game",
     "title": "Sapper",
     "category": "Sapper"
+  },
+  {
+    "id": 52,
+    "reference": "http://s96570q5.beget.tech/",
+    "img": "./img/portfolio/wp.jpg",
+    "alt": "wp",
+    "title": "Project WordPress ",
+    "category": "Team WordPress "
   }
 ]
