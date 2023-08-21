@@ -24,6 +24,7 @@
     "title": "Project react",
     "category": "react-test"
   },
+
   {
     "id": 85,
     "reference": "https://vue-test-shop-khaki.vercel.app",
@@ -56,6 +57,14 @@
     "alt": "Project-management",
     "title": "Project react",
     "category": "react"
+  },
+  {
+    "id": 185,
+    "reference": "https://search-nu-sable.vercel.app/",
+    "img": "./img/portfolio/react-task.jpg",
+    "alt": "Project-management",
+    "title": "Project react",
+    "category": "react-test"
   },
   {
     "id": 86,
