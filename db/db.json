@@ -91,6 +91,14 @@
     "category": "test-- vue"
   },
   {
+    "id": 145,
+    "reference": "https://vue-3-color-vuex.vercel.app/",
+    "img": "./img/portfolio/vue-3-color.jpg",
+    "alt": "Project-management",
+    "title": "Project test vue",
+    "category": "test-- vue"
+  },
+  {
     "id": 95,
     "reference": "https://react-task-tau.vercel.app",
     "img": "./img/portfolio/saga.jpg",
