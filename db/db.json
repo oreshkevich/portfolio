@@ -410,9 +410,17 @@
     "id": 10,
     "reference": "https://oreshkevich.github.io/food/",
     "img": "./img/portfolio/food.jpg",
-    "alt": "Food",
-    "title": "Food",
-    "category": "Верстка многостраничного сайта."
+    "alt": "Food-js",
+    "title": "Food-js",
+    "category": "Верстка многостраничного сайта на js"
+  },
+  {
+    "id": 110,
+    "reference": "https://vue-food-nu.vercel.app/",
+    "img": "./img/portfolio/food.jpg",
+    "alt": "Food-vue-3",
+    "title": "Food-vue-3",
+    "category": "vue-3-project"
   },
   {
     "id": 11,
