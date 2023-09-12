@@ -423,6 +423,14 @@
     "category": "vue-3-project"
   },
   {
+    "id": 111,
+    "reference": "https://todo-vue-component-api.vercel.app/",
+    "img": "./img/portfolio/todo-vue3.jpg",
+    "alt": "Todo-vue-3",
+    "title": "Todo-vue-3",
+    "category": "vue-3-project"
+  },
+  {
     "id": 11,
     "reference": "https://oreshkevich.github.io/mercedes/",
     "img": "./img/portfolio/mercedes.jpg",
