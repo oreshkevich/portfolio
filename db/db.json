@@ -66,6 +66,14 @@
     "category": "react"
   },
   {
+    "id": 187,
+    "reference": "https://ts-template-git-hub.vercel.app/",
+    "img": "./img/portfolio/ts-git-hub.jpg",
+    "alt": "Project-management",
+    "title": "Project react TS",
+    "category": "react TS"
+  },
+  {
     "id": 185,
     "reference": "https://search-nu-sable.vercel.app/",
     "img": "./img/portfolio/react-task.jpg",
