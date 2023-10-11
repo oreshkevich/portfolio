@@ -74,6 +74,14 @@
     "category": "react TS"
   },
   {
+    "id": 188,
+    "reference": "https://angular-16-nine.vercel.app/",
+    "img": "./img/portfolio/angular.jpg",
+    "alt": "Project-management",
+    "title": "Project angular TS",
+    "category": "Angular TS"
+  },
+  {
     "id": 185,
     "reference": "https://search-nu-sable.vercel.app/",
     "img": "./img/portfolio/react-task.jpg",
