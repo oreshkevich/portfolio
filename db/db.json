@@ -58,6 +58,14 @@
     "category": "vue-3-project"
   },
   {
+    "id": 211,
+    "reference": "https://vue-table-task.vercel.app/",
+    "img": "./img/portfolio/table.jpg",
+    "alt": "Task-vue-3",
+    "title": "Task-vue-3",
+    "category": "https://gitlab.com/sibkod/test"
+  },
+  {
     "id": 87,
     "reference": "https://react-expenses-mu.vercel.app",
     "img": "./img/portfolio/expense.jpg",
