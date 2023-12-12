@@ -17,6 +17,22 @@
     "category": "react"
   },
   {
+    "id": 8,
+    "reference": "https://oreshkevich.github.io/food-project/",
+    "img": "./img/portfolio/react-food.jpg",
+    "alt": "React-Food",
+    "title": "React Food",
+    "category": "React-project"
+  },
+  {
+    "id": 208,
+    "reference": "https://vue-food-composition-api.vercel.app/",
+    "img": "./img/portfolio/vue3-ts.jpg",
+    "alt": "Vue-3 TS-Food",
+    "title": "Vue-3 TS Food",
+    "category": "Vue-3 TS-project"
+  },
+  {
     "id": 84,
     "reference": "https://test-react-chi-two.vercel.app/",
     "img": "./img/portfolio/react-test.jpg",
@@ -308,14 +324,6 @@
     "category": " React-redux"
   },
 
-  {
-    "id": 8,
-    "reference": "https://oreshkevich.github.io/food-project/",
-    "img": "./img/portfolio/react-food.jpg",
-    "alt": "React-Food",
-    "title": "React Food",
-    "category": "React-project"
-  },
   {
     "id": 9,
     "reference": "https://oreshkevich.github.io/react-movies/",
