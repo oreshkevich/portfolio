@@ -74,11 +74,11 @@
     "category": "vue-3-project"
   },
   {
-    "id": 111,
+    "id": 511,
     "reference": "https://vue-form-pi.vercel.app/",
     "img": "./img/portfolio/vue-2-form.jpg",
-    "alt": "Todo-vue-3",
-    "title": "Todo-vue-3",
+    "alt": "Registration form-vue-2",
+    "title": "Registration form-vue-2",
     "category": "vue-3-project"
   },
   {
