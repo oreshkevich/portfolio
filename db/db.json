@@ -90,6 +90,14 @@
     "category": "Test"
   },
   {
+    "id": 580,
+    "reference": "https://vue-3-composition-api.vercel.app/",
+    "img": "./img/portfolio/vue-3-com.jpg",
+    "alt": "vue-3-composition-api",
+    "title": "vue-3-composition-api",
+    "category": "Test"
+  },
+  {
     "id": 211,
     "reference": "https://vue-table-task.vercel.app/",
     "img": "./img/portfolio/table.jpg",
