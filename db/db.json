@@ -106,6 +106,14 @@
     "category": "Todo-vue-3"
   },
   {
+    "id": 781,
+    "reference": "https://vue-3-composition-api-car.vercel.app/",
+    "img": "./img/portfolio/car.jpg",
+    "alt": "vue-3-composition-api",
+    "title": "vue-3-composition-api Test",
+    "category": "Test"
+  },
+  {
     "id": 211,
     "reference": "https://vue-table-task.vercel.app/",
     "img": "./img/portfolio/table.jpg",
