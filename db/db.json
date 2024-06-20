@@ -122,6 +122,22 @@
     "category": "Test"
   },
   {
+    "id": 785,
+    "reference": "https://nuxt-3-test-rho.vercel.app/",
+    "img": "./img/portfolio/vue-3-t.jpg",
+    "alt": "nuxt-3",
+    "title": "nuxt-3 Test",
+    "category": "nuxt-3"
+  },
+  {
+    "id": 783,
+    "reference": "https://nuxt-3-orpin.vercel.app/products",
+    "img": "./img/portfolio/Nuxt-3.jpg",
+    "alt": "nuxt-3",
+    "title": "nuxt-3 Test",
+    "category": "nuxt-3"
+  },
+  {
     "id": 211,
     "reference": "https://vue-table-task.vercel.app/",
     "img": "./img/portfolio/table.jpg",
