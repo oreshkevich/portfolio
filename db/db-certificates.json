@@ -17,8 +17,8 @@
   },
   {
     "id": 3,
-    "reference": "../index-certificate.html",
-    "img": "./img/portfolio/s5.jpg",
+    "reference": "../pages/index.html",
+    "img": "../img/portfolio/s5.jpg",
     "alt": "CERTIFICATE",
     "title": "CERTIFICATE",
     "category": "REACT(JAVASCRIPT)"
