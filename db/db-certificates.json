@@ -14,5 +14,13 @@
     "alt": "CERTIFICATE",
     "title": "CERTIFICATE",
     "category": "REACT 2022 Q1 (JAVASCRIPT)"
+  },
+  {
+    "id": 3,
+    "reference": "../index-certificate.html",
+    "img": "./img/portfolio/s5.jpg",
+    "alt": "CERTIFICATE",
+    "title": "CERTIFICATE",
+    "category": "REACT(JAVASCRIPT)"
   }
 ]
