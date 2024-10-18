@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "reference": "../pages/index.html",
+    "reference": "../portfolio/pages/index.html",
     "img": "./img/portfolio/s5.jpg",
     "alt": "CERTIFICATE",
     "title": "CERTIFICATE",
