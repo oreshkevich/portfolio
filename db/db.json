@@ -138,6 +138,14 @@
     "category": "nuxt-3"
   },
   {
+    "id": 793,
+    "reference": "https://yoga-ten-eta.vercel.app/",
+    "img": "./img/portfolio/yoga.jpg",
+    "alt": "js",
+    "title": "yoga",
+    "category": "js"
+  },
+  {
     "id": 211,
     "reference": "https://vue-table-task.vercel.app/",
     "img": "./img/portfolio/table.jpg",
