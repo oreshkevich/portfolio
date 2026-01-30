@@ -22,5 +22,13 @@
     "alt": "CERTIFICATE",
     "title": "CERTIFICATE",
     "category": "REACT(JAVASCRIPT)"
+  },
+  {
+    "id": 3,
+    "reference": "../portfolio/photo_2026.jpg",
+    "img": "./img/portfolio/photo_2026.jpg",
+    "alt": "CERTIFICATE",
+    "title": "CERTIFICATE",
+    "category": "REACT(JAVASCRIPT)"
   }
 ]
